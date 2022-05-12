@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008610860050",
+    "firebase_url": "https://funtimesmathsaround-default-rtdb.firebaseio.com",
+    "project_id": "funtimesmathsaround",
+    "storage_bucket": "funtimesmathsaround.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008610860050:android:897078a2305731ddc0cccb",
+        "android_client_info": {
+          "package_name": "com.example.funtimesmathsaround"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008610860050-plvsoonqfq376iv430bje43a9tta2f02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaT_j61b7OLl3TPbOSiMVKWa6X4etyzLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008610860050-plvsoonqfq376iv430bje43a9tta2f02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008610860050-edu9rfad1lfaknldc79tabl5vvnmh86g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.funtimesmathsaround"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
