@@ -1,6 +1,5 @@
 ![Demo Initializr](GitHubImages/title.png)
 
-# GitHub Link 
 https://github.com/NickAFong/Fun-Times-Maths-Around<br/>
 
 
