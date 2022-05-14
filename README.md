@@ -16,12 +16,12 @@ The project is using the design pattern Model-View-Viewmodel (MMVM).  The projec
 This setup is for the IOS version of the application and also works out of the box with Android but requires different steps.  The web version requires different configurations to the .yaml file and web folder which are not included in this repository.
 
 Requirements:
--MacOS
--Visual Studio Code (w/ Flutter (2.10.3) and Dart extension installed)
-https://code.visualstudio.com/download
--XCode for the simulator(Preferably IOS 15.2 installed using the iPhone 13 Max Pro. During the development of this project IOS 15.4 came out but had a known problem with the emulator not working correctly)
--Connect the IOS Simulator with VSCode using the video linked before.
-https://www.youtube.com/watch?v=RmKn7zFivwg&ab_channel=BBuniversalTeam
+-MacOS <br/>
+-Visual Studio Code (w/ Flutter (2.10.3) and Dart extension installed) <br/>
+https://code.visualstudio.com/download <br/>
+-XCode for the simulator(Preferably IOS 15.2 installed using the iPhone 13 Max Pro. During the development of this project IOS 15.4 came out but had a known problem with the emulator not working correctly) <br/>
+-Connect the IOS Simulator with VSCode using the video linked before. <br/>
+https://www.youtube.com/watch?v=RmKn7zFivwg&ab_channel=BBuniversalTeam <br/>
 -Download of the project using the link below.
 https://github.com/NickAFong/Fun-Times-Maths-Around/archive/refs/heads/master.zip
 
