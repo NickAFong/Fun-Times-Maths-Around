@@ -15,21 +15,21 @@ The project is using the design pattern Model-View-Viewmodel (MMVM).  The projec
 # Setup/Build Instructions (IOS Only)
 This setup is for the IOS version of the application and also works out of the box with Android but requires different steps.  The web version requires different configurations to the .yaml file and web folder which are not included in this repository.
 
-Requirements:
+Requirements: <br/>
 -MacOS <br/>
 -Visual Studio Code (w/ Flutter (2.10.3) and Dart extension installed) <br/>
 https://code.visualstudio.com/download <br/>
 -XCode for the simulator(Preferably IOS 15.2 installed using the iPhone 13 Max Pro. During the development of this project IOS 15.4 came out but had a known problem with the emulator not working correctly) <br/>
 -Connect the IOS Simulator with VSCode using the video linked before. <br/>
 https://www.youtube.com/watch?v=RmKn7zFivwg&ab_channel=BBuniversalTeam <br/>
--Download of the project using the link below.
+-Download of the project using the link below. <br/>
 https://github.com/NickAFong/Fun-Times-Maths-Around/archive/refs/heads/master.zip
 
 
 Step 1
-Unzip the project retrieved from GitHub.
-Start Open up VSCode and click on open folder.
-Select the unzipped folder to open the project.
+Unzip the project retrieved from GitHub. <br/>
+Start Open up VSCode and click on open folder. <br/>
+Select the unzipped folder to open the project. <br/>
 ![Demo Initializr](GitHubImages/3.png)
 
 Step 2
@@ -39,7 +39,7 @@ To ensure dependencies are installed locate and open the pubspec.yaml inside VSC
 ![Demo Initializr](GitHubImages/6.png)
 
 Step 3
-Select the simulator in the bottom right of VSCode and select IOS at the top middle in the command pallet.  Wait for the IOS Simulator to connect...
+Select the simulator in the bottom right of VSCode and select IOS at the top middle in the command pallet.  Wait for the IOS Simulator to connect... <br/>
 ![Demo Initializr](GitHubImages/7.png)
 ![Demo Initializr](GitHubImages/8.png)
 ![Demo Initializr](GitHubImages/9.png)
