@@ -1,5 +1,8 @@
 ![Demo Initializr](GitHubImages/title.png)
 
+#GitHub Link
+https://github.com/NickAFong/Fun-Times-Maths-Around
+
 Fun Times Maths Around is a cross platform application that utilizes the Flutter framework which uses the Dart programming language.  It uses Firebase for the database and authentication.  This project has two main modes which are the Learn Mode and Benchmark mode.  Learn mode is a good way for young children learn the basics of math with tutorials through videos and interactive demos. Children can watch tutorial videos to help them understand the basics of math. They can use these videos to learn how to count, sing along to learn math terminologies, and various other videos to help them expand their knowledge in math.  The Benchmark mode requires a sign in from the user to allow the application to remember their rank.  On creation of the account, the user is prompted to take a short placement quiz to determine their rank.  After their placement quiz, the user can play as many benchmarks as they want with each game affecting their rank.  Their rank will go up and down depending on how many they get right or wrong.  The higher the rank, the harder the problems get. After completing the benchmark, the user is displayed the results page.  This is where the user can see how many questions they got correct, time spent on quiz, and the new rank after taking the quiz.
 ![Demo Initializr](GitHubImages/2.png)
 
