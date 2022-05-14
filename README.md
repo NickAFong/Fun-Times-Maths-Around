@@ -46,7 +46,6 @@ Select the simulator in the bottom right of VSCode and select IOS at the top mid
 Step 4 <br/>
 Launch the application by pressing Run in the menu bar of the screen a click on Run Without Debugging.  Alternatively you can use the shortcut Control + F5.
 ![Demo Initializr](GitHubImages/10.png)
-![Demo Initializr](GitHubImages/11.png)
 ![Demo Initializr](GitHubImages/12.png)
 
 Step 5 <br/>
