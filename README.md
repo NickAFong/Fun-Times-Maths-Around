@@ -41,7 +41,6 @@ To ensure dependencies are installed locate and open the pubspec.yaml inside VSC
 Step 3
 Select the simulator in the bottom right of VSCode and select IOS at the top middle in the command pallet.  Wait for the IOS Simulator to connect... <br/>
 ![Demo Initializr](GitHubImages/7.png)
-![Demo Initializr](GitHubImages/8.png)
 ![Demo Initializr](GitHubImages/9.png)
 
 Step 4
