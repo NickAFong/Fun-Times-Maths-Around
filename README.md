@@ -26,30 +26,30 @@ https://www.youtube.com/watch?v=RmKn7zFivwg&ab_channel=BBuniversalTeam <br/>
 https://github.com/NickAFong/Fun-Times-Maths-Around/archive/refs/heads/master.zip
 
 
-Step 1
+Step 1 <br/>
 Unzip the project retrieved from GitHub. <br/>
 Start Open up VSCode and click on open folder. <br/>
 Select the unzipped folder to open the project. <br/>
 ![Demo Initializr](GitHubImages/3.png)
 
-Step 2
+Step 2 <br/>
 To ensure dependencies are installed locate and open the pubspec.yaml inside VSCode and click on the refresh symbol which is the third symbol from the left at the top right of the screen.
 ![Demo Initializr](GitHubImages/4.png)
 ![Demo Initializr](GitHubImages/5.png)
 ![Demo Initializr](GitHubImages/6.png)
 
-Step 3
+Step 3 <br/>
 Select the simulator in the bottom right of VSCode and select IOS at the top middle in the command pallet.  Wait for the IOS Simulator to connect... <br/>
 ![Demo Initializr](GitHubImages/7.png)
 ![Demo Initializr](GitHubImages/9.png)
 
-Step 4
+Step 4 <br/>
 Launch the application by pressing Run in the menu bar of the screen a click on Run Without Debugging.  Alternatively you can use the shortcut Control + F5.
 ![Demo Initializr](GitHubImages/10.png)
 ![Demo Initializr](GitHubImages/11.png)
 ![Demo Initializr](GitHubImages/12.png)
 
-Step 5
+Step 5 <br/>
 After some time loading, the application will launch in the iOS simulator and will take you to the homepage of the application.
 ![Demo Initializr](GitHubImages/13.png)
 
