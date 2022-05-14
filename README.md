@@ -33,7 +33,7 @@ Select the unzipped folder to open the project. <br/>
 ![Demo Initializr](GitHubImages/3.png)
 
 Step 2 <br/>
-To ensure dependencies are installed locate and open the pubspec.yaml inside VSCode and click on the refresh symbol which is the third symbol from the left at the top right of the screen.
+To ensure dependencies are installed locate and open the pubspec.yaml inside VSCode and click on the refresh symbol which is the third symbol from the left at the top right of the screen. Restart VSCode.
 ![Demo Initializr](GitHubImages/4.png)
 ![Demo Initializr](GitHubImages/5.png)
 ![Demo Initializr](GitHubImages/6.png)
